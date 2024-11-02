@@ -2,9 +2,9 @@
     *Make sure you have git installed*
         [Git for Windows](https://git-scm.com/downloads/win)
     *Creat a new directory*
- 	    `mkdir CLIP`
+ 	    ```mkdir CLIP```
     *Change your working directory into this newly created directoy* 
-        `cd CLIP`
+        ```cd CLIP```
     **Required step:** *Make a copy of the github repository*    
         `git clone https://github.com/KristerMartinez/CLIP.git`
     *Create a new virtual environment. - not required but recomended*    

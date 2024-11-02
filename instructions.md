@@ -5,9 +5,9 @@
 ```mkdir CLIP```\
 *Change your working directory into this newly created directoy*\
 ```cd CLIP```\
-**Required step:** *Make a copy of the github repository*\    
+**Required step:** *Make a copy of the github repository*\
 ```git clone https://github.com/KristerMartinez/CLIP.git```\
-*Create a new virtual environment. - not required but recommended*\    
+*Create a new virtual environment. - not required but recommended*\
 ```python3 -m venv venv```\
 *Turn on the Virtual environment if you created it in the step above*\
 ```venv\Scripts\activate.bat```\
@@ -24,9 +24,9 @@
  ```mkdir CLIP```\
 *Change your working directory into this newly created directory*\
 ```cd CLIP```\
-**Required step:** *Make a copy of the github repository*\    
+**Required step:** *Make a copy of the github repository*\
 ```git clone https://github.com/KristerMartinez/CLIP.git```\
-*Create a new virtual environment. - not required but recommended*\    
+*Create a new virtual environment. - not required but recommended*\
 ```python3 -m venv venv.nosync```\
 *Turn on the Virtual environment if you created it in the step above*\
 ```source venv.nosync/bin/activate```\

@@ -1,6 +1,6 @@
 # Instructions for Windows
-*Make sure you have git installed*
-[Git for Windows](https://git-scm.com/downloads/win)
+*Make sure you have git installed*\
+[Git for Windows](https://git-scm.com/downloads/win)\
 *Creat a new directory*
 ```mkdir CLIP```
 *Change your working directory into this newly created directoy* 

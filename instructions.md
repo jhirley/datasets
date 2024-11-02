@@ -11,7 +11,7 @@
 ```python3 -m venv venv```\
 *Turn on the Virtual environment if you created it in the step above*\
 ```venv\Scripts\activate.bat```\
-**Required step:** Install the needed packaged to run this code, if you get errors try creating the virtual envviroment if you did not*\
+**Required step:** *Install the needed packaged to run this code, if you get errors try creating the virtual envviroment if you did not*\
 ```pip3 install -r requirements.txt```\
 **Finish line** *This runs the streamlit app*\
 ```streamlit run streamlitV1.py```\

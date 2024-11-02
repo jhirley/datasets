@@ -16,7 +16,7 @@
 **Finish line** *This runs the streamlit app*\
 ```streamlit run streamlitV1.py```\
 *You should get a browser window pop up if not got to this link*\
-[Local version of streamlit](http://localhost:8501/)\
+[Local version of streamlit](http://localhost:8501/)
 # Instructions for Linux/Mac
 *Make sure you have git installed*\
 [Git for Linux and Mac](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)\
